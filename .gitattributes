@@ -1,0 +1,7 @@
+# ArkTS 与 TypeScript 同源，但 .ets 不在 GitHub 语言识别表里
+# 不加这两行，仓库主页会把语言显示成 Java（服务端占比更高）
+*.ets linguist-language=TypeScript
+*.ets linguist-detectable=true
+
+# 文档不计入语言统计
+docs/* linguist-documentation=true
