@@ -1,0 +1,124 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "page_padding_h",
+      "value": "16vp"
+    },
+    {
+      "name": "card_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "card_radius_small",
+      "value": "12vp"
+    },
+    {
+      "name": "card_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "card_padding_small",
+      "value": "12vp"
+    },
+    {
+      "name": "card_gap",
+      "value": "12vp"
+    },
+    {
+      "name": "section_gap",
+      "value": "16vp"
+    },
+    {
+      "name": "icon_size_large",
+      "value": "48vp"
+    },
+    {
+      "name": "icon_size_grid",
+      "value": "48vp"
+    },
+    {
+      "name": "icon_size_nav",
+      "value": "22vp"
+    },
+    {
+      "name": "icon_size_small",
+      "value": "18vp"
+    },
+    {
+      "name": "nav_bar_height",
+      "value": "60vp"
+    },
+    {
+      "name": "button_height",
+      "value": "44vp"
+    },
+    {
+      "name": "pill_radius",
+      "value": "22vp"
+    },
+    {
+      "name": "input_height",
+      "value": "40vp"
+    },
+    {
+      "name": "search_bar_height",
+      "value": "40vp"
+    },
+    {
+      "name": "divider_height",
+      "value": "1vp"
+    },
+    {
+      "name": "avatar_size",
+      "value": "56vp"
+    },
+    {
+      "name": "avatar_size_small",
+      "value": "40vp"
+    },
+    {
+      "name": "cover_height",
+      "value": "180vp"
+    },
+    {
+      "name": "font_title_page",
+      "value": "20fp"
+    },
+    {
+      "name": "font_title_section",
+      "value": "18fp"
+    },
+    {
+      "name": "font_title_card",
+      "value": "16fp"
+    },
+    {
+      "name": "font_body",
+      "value": "15fp"
+    },
+    {
+      "name": "font_secondary",
+      "value": "13fp"
+    },
+    {
+      "name": "font_caption",
+      "value": "12fp"
+    },
+    {
+      "name": "font_number_lg",
+      "value": "28fp"
+    },
+    {
+      "name": "font_number_md",
+      "value": "22fp"
+    },
+    {
+      "name": "font_badge",
+      "value": "10fp"
+    }
+  ]
+}

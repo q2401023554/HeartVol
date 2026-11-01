@@ -1,0 +1,45 @@
+{
+  "app": {
+    "signingConfigs": [
+      // 签名材料不入库：证书、p12、profile 均为个人本地资产。
+      // 在 DevEco Studio 打开工程后，File > Project Structure > Signing Configs
+      // 勾选 Automatically generate signature，Studio 会自动把 signingConfigs 写回本文件。
+    ],
+    "products": [
+      {
+        "name": "default",
+        "targetSdkVersion": "26.0.0",
+        "compatibleSdkVersion": "6.1.1(24)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

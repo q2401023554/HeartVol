@@ -1,0 +1,33 @@
+# ===== HarmonyOS / DevEco Studio =====
+**/build/
+**/.hvigor/
+**/.cxx/
+**/oh_modules/
+local.properties
+*.hap
+*.app
+*.hsp
+*.har
+
+# 签名材料：绝不入库
+*.p12
+*.cer
+*.p7b
+*.keystore
+*.jks
+
+# ===== Java / Maven =====
+target/
+*.class
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+
+# ===== 系统与日志 =====
+.DS_Store
+Thumbs.db
+*.log

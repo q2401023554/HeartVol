@@ -1,0 +1,1420 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "鸿志愿 · 校园志愿服务与互助平台"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "鸿志愿主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "鸿志愿"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "鸿志愿"
+    },
+    {
+      "name": "widget_desc",
+      "value": "志愿服务数据速览卡片"
+    },
+    {
+      "name": "nav_home",
+      "value": "首页"
+    },
+    {
+      "name": "nav_volunteer",
+      "value": "志愿"
+    },
+    {
+      "name": "nav_agent",
+      "value": "小鸿"
+    },
+    {
+      "name": "nav_help",
+      "value": "互助"
+    },
+    {
+      "name": "nav_mine",
+      "value": "我的"
+    },
+    {
+      "name": "common_search",
+      "value": "搜索"
+    },
+    {
+      "name": "common_see_more",
+      "value": "查看更多"
+    },
+    {
+      "name": "common_retry",
+      "value": "重试"
+    },
+    {
+      "name": "common_loading",
+      "value": "加载中…"
+    },
+    {
+      "name": "common_empty",
+      "value": "暂无内容"
+    },
+    {
+      "name": "common_net_error",
+      "value": "网络开小差了，请稍后重试"
+    },
+    {
+      "name": "common_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "common_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "common_submit",
+      "value": "提交"
+    },
+    {
+      "name": "common_back",
+      "value": "返回"
+    },
+    {
+      "name": "common_unit_hour",
+      "value": "小时"
+    },
+    {
+      "name": "common_unit_hour_short",
+      "value": "h"
+    },
+    {
+      "name": "common_unit_point",
+      "value": "积分"
+    },
+    {
+      "name": "common_unit_person",
+      "value": "人"
+    },
+    {
+      "name": "common_unit_count",
+      "value": "次"
+    },
+    {
+      "name": "common_unit_scene",
+      "value": "场"
+    },
+    {
+      "name": "common_unit_km",
+      "value": "km"
+    },
+    {
+      "name": "home_search_placeholder",
+      "value": "跟志愿小鸿说一句话"
+    },
+    {
+      "name": "home_hours_prefix",
+      "value": "志愿时长"
+    },
+    {
+      "name": "home_notice_sub",
+      "value": "还没签到，别错过时长"
+    },
+    {
+      "name": "home_notice_action",
+      "value": "详情"
+    },
+    {
+      "name": "home_today_volunteer",
+      "value": "今日志愿"
+    },
+    {
+      "name": "home_ongoing",
+      "value": "参与中"
+    },
+    {
+      "name": "home_pending_signin",
+      "value": "待签到"
+    },
+    {
+      "name": "home_grid_scan",
+      "value": "扫码签到"
+    },
+    {
+      "name": "home_grid_publish_activity",
+      "value": "发布活动"
+    },
+    {
+      "name": "home_grid_publish_help",
+      "value": "发布求助"
+    },
+    {
+      "name": "home_grid_help_hall",
+      "value": "求助大厅"
+    },
+    {
+      "name": "home_week_recommend",
+      "value": "本周推荐"
+    },
+    {
+      "name": "home_section_activity",
+      "value": "志愿活动"
+    },
+    {
+      "name": "home_signup_now",
+      "value": "立即报名"
+    },
+    {
+      "name": "hall_search_placeholder",
+      "value": "搜索志愿活动"
+    },
+    {
+      "name": "filter_recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "filter_nearby",
+      "value": "附近"
+    },
+    {
+      "name": "filter_env",
+      "value": "环保"
+    },
+    {
+      "name": "filter_teach",
+      "value": "支教"
+    },
+    {
+      "name": "filter_game",
+      "value": "赛会"
+    },
+    {
+      "name": "filter_elder",
+      "value": "助老"
+    },
+    {
+      "name": "hall_total_hours",
+      "value": "累计时长"
+    },
+    {
+      "name": "hall_join_count",
+      "value": "参与次数"
+    },
+    {
+      "name": "hall_my_signup",
+      "value": "我的报名"
+    },
+    {
+      "name": "hall_publish_activity",
+      "value": "发布活动"
+    },
+    {
+      "name": "hall_signin",
+      "value": "签到"
+    },
+    {
+      "name": "hall_rank",
+      "value": "活动排行榜"
+    },
+    {
+      "name": "help_filter_all",
+      "value": "全部"
+    },
+    {
+      "name": "help_cat_errand",
+      "value": "跑腿"
+    },
+    {
+      "name": "help_cat_borrow",
+      "value": "借物"
+    },
+    {
+      "name": "help_cat_qa",
+      "value": "问答"
+    },
+    {
+      "name": "help_cat_skill",
+      "value": "技能"
+    },
+    {
+      "name": "help_cat_carry",
+      "value": "搬运"
+    },
+    {
+      "name": "help_mine_published",
+      "value": "我发布的"
+    },
+    {
+      "name": "help_mine_taken",
+      "value": "我接单的"
+    },
+    {
+      "name": "help_my_request",
+      "value": "我的求助"
+    },
+    {
+      "name": "help_publish",
+      "value": "发布求助"
+    },
+    {
+      "name": "help_my_order",
+      "value": "我的接单"
+    },
+    {
+      "name": "help_reward_prefix",
+      "value": "悬赏"
+    },
+    {
+      "name": "agent_name",
+      "value": "志愿小鸿"
+    },
+    {
+      "name": "agent_subtitle",
+      "value": "随时帮你办事"
+    },
+    {
+      "name": "agent_online",
+      "value": "在线"
+    },
+    {
+      "name": "agent_input_hint",
+      "value": "说一句话，我来办…"
+    },
+    {
+      "name": "agent_prompt_1",
+      "value": "帮我发起一个活动"
+    },
+    {
+      "name": "agent_prompt_2",
+      "value": "有什么适合我的"
+    },
+    {
+      "name": "agent_thinking",
+      "value": "小鸿正在思考…"
+    },
+    {
+      "name": "agent_draft_edit",
+      "value": "去修改"
+    },
+    {
+      "name": "agent_draft_publish",
+      "value": "一键发布"
+    },
+    {
+      "name": "agent_published",
+      "value": "已发布，可在志愿大厅看到"
+    },
+    {
+      "name": "agent_field_time",
+      "value": "时间"
+    },
+    {
+      "name": "agent_field_place",
+      "value": "地点"
+    },
+    {
+      "name": "agent_field_count",
+      "value": "人数"
+    },
+    {
+      "name": "agent_field_hours",
+      "value": "时长"
+    },
+    {
+      "name": "agent_field_reward",
+      "value": "悬赏"
+    },
+    {
+      "name": "agent_field_expect",
+      "value": "期望"
+    },
+    {
+      "name": "msg_title",
+      "value": "消息中心"
+    },
+    {
+      "name": "msg_tab_notice",
+      "value": "通知"
+    },
+    {
+      "name": "msg_tab_interact",
+      "value": "互动"
+    },
+    {
+      "name": "msg_tab_activity",
+      "value": "活动"
+    },
+    {
+      "name": "msg_tab_help",
+      "value": "互助"
+    },
+    {
+      "name": "msg_mark_all_read",
+      "value": "全部已读"
+    },
+    {
+      "name": "msg_empty",
+      "value": "暂无消息"
+    },
+    {
+      "name": "mine_credit_prefix",
+      "value": "志愿信用分"
+    },
+    {
+      "name": "mine_view_detail",
+      "value": "查看明细"
+    },
+    {
+      "name": "mine_total_hours",
+      "value": "累计志愿时长"
+    },
+    {
+      "name": "mine_point",
+      "value": "公益积分"
+    },
+    {
+      "name": "mine_my_signup",
+      "value": "我的报名"
+    },
+    {
+      "name": "mine_my_hours",
+      "value": "我的时长"
+    },
+    {
+      "name": "mine_certificate",
+      "value": "电子证书"
+    },
+    {
+      "name": "mine_my_help",
+      "value": "我的求助"
+    },
+    {
+      "name": "mine_medal",
+      "value": "勋章成就"
+    },
+    {
+      "name": "mine_medal_count",
+      "value": "共 %d 枚"
+    },
+    {
+      "name": "mine_service",
+      "value": "我的服务"
+    },
+    {
+      "name": "mine_service_profile",
+      "value": "个人资料"
+    },
+    {
+      "name": "mine_service_credit",
+      "value": "信用记录"
+    },
+    {
+      "name": "mine_service_notify",
+      "value": "消息通知"
+    },
+    {
+      "name": "mine_service_help",
+      "value": "帮助与反馈"
+    },
+    {
+      "name": "mine_service_about",
+      "value": "关于鸿志愿"
+    },
+    {
+      "name": "mine_service_setting",
+      "value": "设置"
+    },
+    {
+      "name": "mine_student_prefix",
+      "value": "学号"
+    },
+    {
+      "name": "splash_copyright",
+      "value": "版权所有 © 2026 鸿志愿 · 保留一切权利"
+    },
+    {
+      "name": "splash_slogan",
+      "value": "校园志愿服务与互助平台"
+    },
+    {
+      "name": "auth_tab_login",
+      "value": "登录"
+    },
+    {
+      "name": "auth_tab_register",
+      "value": "注册"
+    },
+    {
+      "name": "auth_agreement_prefix",
+      "value": "我已阅读并同意 "
+    },
+    {
+      "name": "auth_agreement_user",
+      "value": "《用户协议》"
+    },
+    {
+      "name": "auth_agreement_and",
+      "value": " 与 "
+    },
+    {
+      "name": "auth_agreement_privacy",
+      "value": "《隐私政策》"
+    },
+    {
+      "name": "login_title",
+      "value": "欢迎回来"
+    },
+    {
+      "name": "login_subtitle",
+      "value": "登录后开始你的志愿服务"
+    },
+    {
+      "name": "login_student_no",
+      "value": "学号"
+    },
+    {
+      "name": "login_student_no_hint",
+      "value": "请输入学号"
+    },
+    {
+      "name": "login_password",
+      "value": "密码"
+    },
+    {
+      "name": "login_password_hint",
+      "value": "请输入密码"
+    },
+    {
+      "name": "login_btn",
+      "value": "登录"
+    },
+    {
+      "name": "login_no_account",
+      "value": "还没有账号？"
+    },
+    {
+      "name": "login_register_now",
+      "value": "立即注册"
+    },
+    {
+      "name": "login_forget",
+      "value": "忘记密码？"
+    },
+    {
+      "name": "login_forget_todo",
+      "value": "演示版暂未接入找回密码"
+    },
+    {
+      "name": "login_need_agreement",
+      "value": "请先勾选同意《用户协议》与《隐私政策》"
+    },
+    {
+      "name": "login_demo_tip",
+      "value": "演示账号：demo / 123456"
+    },
+    {
+      "name": "register_title",
+      "value": "注册账号"
+    },
+    {
+      "name": "register_step_1",
+      "value": "1 / 2"
+    },
+    {
+      "name": "register_name",
+      "value": "姓名"
+    },
+    {
+      "name": "register_name_hint",
+      "value": "请输入真实姓名"
+    },
+    {
+      "name": "register_college",
+      "value": "学院"
+    },
+    {
+      "name": "register_college_hint",
+      "value": "请选择学院"
+    },
+    {
+      "name": "register_college_todo",
+      "value": "演示版暂未接入学院选择器"
+    },
+    {
+      "name": "register_major",
+      "value": "专业"
+    },
+    {
+      "name": "register_password",
+      "value": "设置密码"
+    },
+    {
+      "name": "register_password_hint",
+      "value": "6 - 20 位，含字母与数字"
+    },
+    {
+      "name": "register_confirm_password",
+      "value": "确认密码"
+    },
+    {
+      "name": "register_confirm_hint",
+      "value": "请再次输入密码"
+    },
+    {
+      "name": "register_btn",
+      "value": "注册并登录"
+    },
+    {
+      "name": "register_need_agreement",
+      "value": "请先勾选同意《用户协议》与《隐私政策》"
+    },
+    {
+      "name": "register_welcome",
+      "value": "注册成功，欢迎加入鸿志愿"
+    },
+    {
+      "name": "register_agreement",
+      "value": "注册即表示同意《用户协议》与《隐私政策》"
+    },
+    {
+      "name": "register_to_login",
+      "value": "已有账号？去登录"
+    },
+    {
+      "name": "detail_status_signuping",
+      "value": "报名中"
+    },
+    {
+      "name": "detail_status_ongoing",
+      "value": "进行中"
+    },
+    {
+      "name": "detail_status_end",
+      "value": "已结束"
+    },
+    {
+      "name": "detail_label_time",
+      "value": "活动时间"
+    },
+    {
+      "name": "detail_label_place",
+      "value": "活动地点"
+    },
+    {
+      "name": "detail_label_hours",
+      "value": "志愿时长"
+    },
+    {
+      "name": "detail_label_quota",
+      "value": "招募名额"
+    },
+    {
+      "name": "detail_label_joined",
+      "value": "已报名"
+    },
+    {
+      "name": "detail_section_intro",
+      "value": "活动介绍"
+    },
+    {
+      "name": "detail_section_participants",
+      "value": "参与者"
+    },
+    {
+      "name": "detail_btn_signup",
+      "value": "立即报名"
+    },
+    {
+      "name": "detail_btn_signin",
+      "value": "扫码签到"
+    },
+    {
+      "name": "detail_btn_signuped",
+      "value": "已报名"
+    },
+    {
+      "name": "detail_tip_signuped",
+      "value": "已报名，请准时到场并扫码签到"
+    },
+    {
+      "name": "scan_title",
+      "value": "扫码签到"
+    },
+    {
+      "name": "scan_tip",
+      "value": "将活动二维码放入框内，即可自动识别"
+    },
+    {
+      "name": "scan_manual",
+      "value": "手输签到码"
+    },
+    {
+      "name": "scan_album",
+      "value": "扫一扫"
+    },
+    {
+      "name": "scan_code_dialog_title",
+      "value": "输入 6 位签到码"
+    },
+    {
+      "name": "scan_btn_confirm",
+      "value": "确认签到"
+    },
+    {
+      "name": "scan_success",
+      "value": "签到成功"
+    },
+    {
+      "name": "scan_success_hours",
+      "value": "+%d 志愿时长已到账"
+    },
+    {
+      "name": "scan_fail",
+      "value": "签到失败，请检查签到码或定位"
+    },
+    {
+      "name": "publish_activity_title",
+      "value": "发布活动"
+    },
+    {
+      "name": "publish_help_title",
+      "value": "发布求助"
+    },
+    {
+      "name": "publish_label_title",
+      "value": "标题"
+    },
+    {
+      "name": "publish_label_category",
+      "value": "分类"
+    },
+    {
+      "name": "publish_label_time",
+      "value": "活动时间"
+    },
+    {
+      "name": "publish_label_place",
+      "value": "活动地点"
+    },
+    {
+      "name": "publish_label_quota",
+      "value": "招募人数"
+    },
+    {
+      "name": "publish_label_hours",
+      "value": "服务时长"
+    },
+    {
+      "name": "publish_label_desc",
+      "value": "详细描述"
+    },
+    {
+      "name": "publish_label_reward",
+      "value": "悬赏积分"
+    },
+    {
+      "name": "publish_label_expect_time",
+      "value": "期望时间"
+    },
+    {
+      "name": "publish_btn",
+      "value": "发布"
+    },
+    {
+      "name": "publish_success",
+      "value": "发布成功"
+    },
+    {
+      "name": "help_detail_title",
+      "value": "求助详情"
+    },
+    {
+      "name": "help_status_pending",
+      "value": "待接单"
+    },
+    {
+      "name": "help_status_doing",
+      "value": "进行中"
+    },
+    {
+      "name": "help_status_done",
+      "value": "已完成"
+    },
+    {
+      "name": "help_btn_accept",
+      "value": "我要接单"
+    },
+    {
+      "name": "help_btn_finish",
+      "value": "确认完成"
+    },
+    {
+      "name": "help_btn_review",
+      "value": "评价对方"
+    },
+    {
+      "name": "help_review_title",
+      "value": "双方互评"
+    },
+    {
+      "name": "help_review_hint",
+      "value": "说说这次互助体验…"
+    },
+    {
+      "name": "help_review_done",
+      "value": "评价成功"
+    },
+    {
+      "name": "help_review_placeholder",
+      "value": "说说这次互助体验…"
+    },
+    {
+      "name": "hours_title",
+      "value": "时长明细"
+    },
+    {
+      "name": "hours_total",
+      "value": "累计时长"
+    },
+    {
+      "name": "cert_title",
+      "value": "电子证书"
+    },
+    {
+      "name": "cert_issue_org",
+      "value": "鸿志愿校园志愿服务平台"
+    },
+    {
+      "name": "cert_body",
+      "value": "兹证明该同学积极参与校园志愿服务，表现优秀，特发此证，以资鼓励。"
+    },
+    {
+      "name": "cert_serial_prefix",
+      "value": "证书编号"
+    },
+    {
+      "name": "filter_campus",
+      "value": "校园"
+    },
+    {
+      "name": "common_full",
+      "value": "已满"
+    },
+    {
+      "name": "common_signed_count",
+      "value": "已报名"
+    },
+    {
+      "name": "common_signup_action",
+      "value": "报名"
+    },
+    {
+      "name": "signup_status_signed_up",
+      "value": "已报名"
+    },
+    {
+      "name": "signup_status_checked_in",
+      "value": "已签到"
+    },
+    {
+      "name": "signup_status_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "signup_status_no_show",
+      "value": "未到场"
+    },
+    {
+      "name": "help_status_canceled",
+      "value": "已取消"
+    },
+    {
+      "name": "order_status_ongoing",
+      "value": "进行中"
+    },
+    {
+      "name": "order_status_wait_confirm",
+      "value": "待确认"
+    },
+    {
+      "name": "order_status_finished",
+      "value": "已完成"
+    },
+    {
+      "name": "dev_preview_title",
+      "value": "公共组件预览"
+    },
+    {
+      "name": "activity_detail_title",
+      "value": "活动详情"
+    },
+    {
+      "name": "common_more",
+      "value": "更多"
+    },
+    {
+      "name": "common_todo_demo",
+      "value": "演示版暂未接入该功能"
+    },
+    {
+      "name": "hall_rank_week",
+      "value": "本周"
+    },
+    {
+      "name": "hall_rank_joined",
+      "value": "人报名"
+    },
+    {
+      "name": "hall_empty",
+      "value": "没有找到符合条件的活动"
+    },
+    {
+      "name": "detail_contact",
+      "value": "联系"
+    },
+    {
+      "name": "detail_tip_remain",
+      "value": "还差 %d 人成行"
+    },
+    {
+      "name": "detail_tip_full",
+      "value": "名额已满"
+    },
+    {
+      "name": "detail_signup_success",
+      "value": "报名成功，请准时到场"
+    },
+    {
+      "name": "detail_no_activity",
+      "value": "活动不存在或已下架"
+    },
+    {
+      "name": "help_search_placeholder",
+      "value": "搜索求助需求"
+    },
+    {
+      "name": "help_hall_title",
+      "value": "求助大厅"
+    },
+    {
+      "name": "help_sort_distance",
+      "value": "按距离排序"
+    },
+    {
+      "name": "help_back_hall",
+      "value": "返回大厅"
+    },
+    {
+      "name": "help_unit_item",
+      "value": "条"
+    },
+    {
+      "name": "help_unit_order",
+      "value": "单"
+    },
+    {
+      "name": "help_empty",
+      "value": "没有找到符合条件的求助"
+    },
+    {
+      "name": "help_label_expect",
+      "value": "期望完成"
+    },
+    {
+      "name": "help_label_place",
+      "value": "求助地点"
+    },
+    {
+      "name": "help_label_publish_time",
+      "value": "发布时间"
+    },
+    {
+      "name": "help_label_distance",
+      "value": "距离"
+    },
+    {
+      "name": "help_label_desc",
+      "value": "求助描述"
+    },
+    {
+      "name": "help_title_hint",
+      "value": "例如：帮忙带一份午饭"
+    },
+    {
+      "name": "help_expect_hint",
+      "value": "请选择时间"
+    },
+    {
+      "name": "help_agent_tip",
+      "value": "也可以直接跟小鸿说，例如「帮我发一个取快递的求助，悬赏 30 积分」"
+    },
+    {
+      "name": "help_agent_hint",
+      "value": "和小鸿说一句话即可生成草稿"
+    },
+    {
+      "name": "agent_badge",
+      "value": "鸿"
+    },
+    {
+      "name": "help_reward_available",
+      "value": "可用 %d"
+    },
+    {
+      "name": "help_reward_hint",
+      "value": "积分将在你确认完成后划给对方"
+    },
+    {
+      "name": "help_draft",
+      "value": "存草稿"
+    },
+    {
+      "name": "help_publisher",
+      "value": "发布者"
+    },
+    {
+      "name": "help_credit_prefix",
+      "value": "信用分"
+    },
+    {
+      "name": "help_publisher_hours_prefix",
+      "value": "累计志愿"
+    },
+    {
+      "name": "help_tip_waiting",
+      "value": "等待有人接单"
+    },
+    {
+      "name": "help_tip_doing",
+      "value": "已有人接单，等待完成"
+    },
+    {
+      "name": "help_tip_helper_doing",
+      "value": "完成后请确认，积分将划给你"
+    },
+    {
+      "name": "help_tip_done",
+      "value": "求助已完成"
+    },
+    {
+      "name": "help_btn_reviewed",
+      "value": "已评价"
+    },
+    {
+      "name": "help_accept_success",
+      "value": "接单成功，请尽快与发布者联系"
+    },
+    {
+      "name": "help_finish_success",
+      "value": "已提交完成，等待对方确认"
+    },
+    {
+      "name": "help_no_request",
+      "value": "求助不存在或已下架"
+    },
+    {
+      "name": "mine_verified",
+      "value": "已认证"
+    },
+    {
+      "name": "mine_signup_active_count",
+      "value": "%d 场进行中"
+    },
+    {
+      "name": "mine_sub_detail",
+      "value": "明细"
+    },
+    {
+      "name": "mine_cert_count",
+      "value": "可生成 %d 张"
+    },
+    {
+      "name": "mine_help_pub",
+      "value": "发布"
+    },
+    {
+      "name": "mine_help_order",
+      "value": "接单"
+    },
+    {
+      "name": "mine_medal_more",
+      "value": "+%d"
+    },
+    {
+      "name": "common_filter",
+      "value": "筛选"
+    },
+    {
+      "name": "common_view_detail",
+      "value": "查看详情"
+    },
+    {
+      "name": "common_unit_month",
+      "value": "月"
+    },
+    {
+      "name": "signup_tab_wait",
+      "value": "待参与"
+    },
+    {
+      "name": "signup_tab_done",
+      "value": "已完成"
+    },
+    {
+      "name": "signup_rate",
+      "value": "评价活动"
+    },
+    {
+      "name": "signup_credited",
+      "value": "已入账"
+    },
+    {
+      "name": "signup_status_wait_signin",
+      "value": "待签到"
+    },
+    {
+      "name": "hours_month_prefix",
+      "value": "本月新增"
+    },
+    {
+      "name": "hours_beat_students",
+      "value": "超过 82% 的同学"
+    },
+    {
+      "name": "cert_scene_count",
+      "value": "参与场次"
+    },
+    {
+      "name": "cert_heading",
+      "value": "志愿服务时长证明"
+    },
+    {
+      "name": "cert_heading_en",
+      "value": "Certificate of Volunteer Service"
+    },
+    {
+      "name": "cert_stamp_text",
+      "value": "认定章"
+    },
+    {
+      "name": "cert_save",
+      "value": "保存图片"
+    },
+    {
+      "name": "cert_share",
+      "value": "分享证书"
+    },
+    {
+      "name": "publish_agent_tip",
+      "value": "志愿小鸿已按你刚才那句话填好草稿，确认后即可发布"
+    },
+    {
+      "name": "publish_agent_link",
+      "value": "查看对话记录"
+    },
+    {
+      "name": "common_save_draft",
+      "value": "存草稿"
+    },
+    {
+      "name": "publish_label_gather",
+      "value": "集合地点"
+    },
+    {
+      "name": "scan_credit",
+      "value": "信用分"
+    },
+    {
+      "name": "scan_credit_ok",
+      "value": "履约正常"
+    },
+    {
+      "name": "scan_gain_label",
+      "value": "本次获得"
+    },
+    {
+      "name": "scan_signin_time",
+      "value": "签到时间"
+    },
+    {
+      "name": "scan_view_hours",
+      "value": "查看时长明细"
+    },
+    {
+      "name": "scan_back_home",
+      "value": "返回首页"
+    },
+    {
+      "name": "scan_tip_sub",
+      "value": "点击「扫一扫」对准组织者的签到二维码，成功后自动核销计时长"
+    },
+    {
+      "name": "hours_gen_cert",
+      "value": "生成电子证书"
+    },
+    {
+      "name": "detail_contact_row",
+      "value": "活动联系人"
+    },
+    {
+      "name": "detail_qr_entry",
+      "value": "查看签到二维码"
+    },
+    {
+      "name": "detail_qr_title",
+      "value": "签到二维码"
+    },
+    {
+      "name": "detail_qr_code_label",
+      "value": "签到码"
+    },
+    {
+      "name": "detail_qr_hint",
+      "value": "志愿者在「扫码签到」页扫此码即可自动核销；无法扫码时也可手输上方签到码"
+    },
+    {
+      "name": "detail_qr_ok",
+      "value": "知道了"
+    },
+    {
+      "name": "mypub_title",
+      "value": "我的发布"
+    },
+    {
+      "name": "mypub_empty_act",
+      "value": "你还没有发布过活动"
+    },
+    {
+      "name": "mypub_empty_help",
+      "value": "你还没有发布过求助"
+    },
+    {
+      "name": "mypub_entry_title",
+      "value": "我的发布"
+    },
+    {
+      "name": "mypub_entry_sub",
+      "value": "管理我发布的活动与求助 · 查看签到二维码"
+    },
+    {
+      "name": "publish_cover_ok",
+      "value": "封面已上传"
+    },
+    {
+      "name": "publish_cover_uploading",
+      "value": "上传中…"
+    },
+    {
+      "name": "detail_contact_pub",
+      "value": "回复咨询"
+    },
+    {
+      "name": "agent_welcome",
+      "value": "你好，我是小鸿～问我任何志愿相关的问题"
+    },
+    {
+      "name": "mypub_del_entry",
+      "value": "删除此活动"
+    },
+    {
+      "name": "mypub_del_confirm_title",
+      "value": "删除活动"
+    },
+    {
+      "name": "mypub_del_confirm_msg",
+      "value": "确定删除该活动吗？所有报名记录将一并删除，此操作不可恢复。"
+    },
+    {
+      "name": "mypub_del_ok",
+      "value": "删除"
+    },
+    {
+      "name": "mypub_del_done",
+      "value": "活动已删除"
+    },
+    {
+      "name": "mypub_del_fail",
+      "value": "删除失败，请重试"
+    },
+    {
+      "name": "mypub_manage",
+      "value": "管理"
+    },
+    {
+      "name": "manage_title",
+      "value": "管理活动"
+    },
+    {
+      "name": "manage_status_label",
+      "value": "当前状态"
+    },
+    {
+      "name": "manage_save",
+      "value": "保存修改"
+    },
+    {
+      "name": "manage_saved",
+      "value": "已保存"
+    },
+    {
+      "name": "manage_save_fail",
+      "value": "保存失败，请重试"
+    },
+    {
+      "name": "hall_load_fail",
+      "value": "加载失败，请检查网络后重试"
+    },
+    {
+      "name": "help_contact_row",
+      "value": "联系人"
+    },
+    {
+      "name": "publish_label_cover",
+      "value": "活动封面"
+    },
+    {
+      "name": "publish_cover_add",
+      "value": "上传封面"
+    },
+    {
+      "name": "login_need_input",
+      "value": "请输入学号与密码"
+    },
+    {
+      "name": "login_loading",
+      "value": "登录中…"
+    },
+    {
+      "name": "login_fail",
+      "value": "登录失败，请重试"
+    },
+    {
+      "name": "register_need_input",
+      "value": "请填写学号、姓名与密码"
+    },
+    {
+      "name": "register_loading",
+      "value": "注册中…"
+    },
+    {
+      "name": "register_fail",
+      "value": "注册失败，请重试"
+    },
+    {
+      "name": "register_password_mismatch",
+      "value": "两次输入的密码不一致"
+    },
+    {
+      "name": "signup_fail",
+      "value": "报名失败，请重试"
+    },
+    {
+      "name": "signin_fail",
+      "value": "签到失败，请重试"
+    },
+    {
+      "name": "publish_fail",
+      "value": "发布失败，请重试"
+    },
+    {
+      "name": "scan_signin_code_hint",
+      "value": "请输入 6 位签到码"
+    },
+    {
+      "name": "scan_confirm",
+      "value": "核销"
+    },
+    {
+      "name": "scan_confirming",
+      "value": "核销中…"
+    },
+    {
+      "name": "scan_no_pending",
+      "value": "暂无待签到的活动"
+    },
+    {
+      "name": "publish_need_title",
+      "value": "请先填写活动标题"
+    },
+    {
+      "name": "mine_logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "settings_edit_profile",
+      "value": "编辑资料"
+    },
+    {
+      "name": "settings_save_profile",
+      "value": "保存修改"
+    },
+    {
+      "name": "settings_label_studentno",
+      "value": "学号"
+    },
+    {
+      "name": "settings_label_name",
+      "value": "姓名"
+    },
+    {
+      "name": "settings_label_college",
+      "value": "学院"
+    },
+    {
+      "name": "settings_label_phone",
+      "value": "电话"
+    },
+    {
+      "name": "settings_name_ph",
+      "value": "请输入姓名"
+    },
+    {
+      "name": "settings_phone_ph",
+      "value": "请输入手机号"
+    },
+    {
+      "name": "settings_college_ph",
+      "value": "请输入学院"
+    },
+    {
+      "name": "settings_profile_saved",
+      "value": "资料已更新"
+    },
+    {
+      "name": "settings_not_filled",
+      "value": "未填写"
+    },
+    {
+      "name": "perm_reason_location",
+      "value": "用于在扫码签到时提示你与签到点的距离"
+    },
+    {
+      "name": "detail_no_participants",
+      "value": "还没有人报名，快来抢首报"
+    },
+    {
+      "name": "chat_list_title",
+      "value": "互助沟通"
+    },
+    {
+      "name": "chat_list_empty",
+      "value": "还没有聊天，接单后到求助详情点「联系」开始沟通"
+    },
+    {
+      "name": "chat_entry_sub",
+      "value": "与求助双方在线聊天"
+    },
+    {
+      "name": "settings_about",
+      "value": "关于鸿志愿"
+    },
+    {
+      "name": "settings_version",
+      "value": "鸿志愿 v1.0.0 · 光谷杯参赛作品"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SplashPage",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/ActivityDetailPage",
+    "pages/PublishActivityPage",
+    "pages/ScanSignInPage",
+    "pages/HelpDetailPage",
+    "pages/PublishHelpPage",
+    "pages/MessagesPage",
+    "pages/MySignupsPage",
+    "pages/MyHoursPage",
+    "pages/CertificatePage",
+    "pages/SettingsPage",
+    "pages/MyPublishPage",
+    "pages/ManageActivityPage",
+    "pages/ChatListPage",
+    "pages/ChatPage"
+  ]
+}

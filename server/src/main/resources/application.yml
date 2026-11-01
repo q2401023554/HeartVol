@@ -1,0 +1,24 @@
+server:
+  port: 8080
+
+spring:
+  jackson:
+    # JDBC 的 DATETIME 出来是 Timestamp → 走 Date 序列化器；LocalDateTime 走 JacksonConfig
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+  datasource:
+    url: jdbc:mysql://localhost:3306/guanggu?useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&characterEncoding=utf8
+    username: guanggu
+    # 凭据从环境变量注入，严禁写死（部署脚本 start.sh 里 export）
+    password: ${DB_PASSWORD}
+    hikari:
+      maximum-pool-size: 5
+      minimum-idle: 2
+
+app:
+  # HMAC 签名密钥：部署时由 start.sh 注入随机值
+  jwt-secret: ${JWT_SECRET}
+
+logging:
+  level:
+    root: INFO
